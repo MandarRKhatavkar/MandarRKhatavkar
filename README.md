@@ -1,6 +1,5 @@
-<h2 align='center'> 👋 Hi, I’m Mandar Khatavkar</h2>
-<h3 align="center"> 👀 Aspiring Data Scientist</h3>
-<img align='right' alt='coding' width= '200' src= "https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
+<h1 align="center">Hi 👋, I'm Mandar Khatavkar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarrkhatavkar&label=Profile%20views&color=0e75b6&style=flat" alt="mandarrkhatavkar" /> </p>
 
 - 🌱 I’m currently learning **Data science at AlmaBetter**
 
@@ -12,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mkhatavkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mkhatavkar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mandarkhatavkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mandarkhatavkar1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mkhatavkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mkhatavkar/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mandarkhatavkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mandarkhatavkar1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
