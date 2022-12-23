@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar Khatavkar</h1>
+<h2 align='center'> Data Science Enthusiast</h2>
 <img align='right' alt='coding' width= '200' src= "https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarrkhatavkar&label=Profile%20views&color=0e75b6&style=flat" alt="mandarrkhatavkar" /> </p>
 
